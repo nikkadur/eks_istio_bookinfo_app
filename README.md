@@ -7,7 +7,7 @@
 
 **Note**: We need the owner of the PR to perform the appropriate testing with built/pushed images to their own docker repository before we would build/push images to the official Istio repository.
 
-## General Setup
+## General Setups
 
 ```bash
 # This defines the docker hub to use when running integration tests and building docker images
