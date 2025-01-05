@@ -1,6 +1,9 @@
+![image](https://github.com/user-attachments/assets/9a7ddcef-14ec-4634-9810-6d9d70fab27d)
+
+
 # Bookinfo Sample
 
-See <https://istio.io/docs/examples/bookinfo/>.
+
 
 **Note**: We need the owner of the PR to perform the appropriate testing with built/pushed images to their own docker repository before we would build/push images to the official Istio repository.
 
